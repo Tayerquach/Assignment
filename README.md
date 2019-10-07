@@ -20,7 +20,6 @@ After running the program, output will be the top **1000 projects** ranked by he
 
 ## Health Metric
 - Average number of commits (push) per day (to any branch)
-- Average number of release per day (to any branch)
 
 ## Technical decisions
 ### Built With
