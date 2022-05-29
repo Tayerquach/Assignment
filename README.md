@@ -1,4 +1,4 @@
-# QuodAI_Assignment
+# QuodAI Challenge
 **Coding challenge**
 
 This project will build a small program that downloads GitHub data within 7 days and calculates a health score for open source projects hosted on GitHub. The scores shall be outputted to a simple CSV file.
