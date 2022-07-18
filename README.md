@@ -67,7 +67,7 @@ I executed all calculations to create required metric based on streaming method 
 
 ## Author
 
-* **Quach Mai Boi** - *Initial work* - [QuodAI Assignment](https://github.com/Tayerquach/quodAI_Assignment)
+* **Quach Mai Boi** - *Initial work* - [QuodAI Challenge](https://github.com/Tayerquach/quodAI_Assignment)
 
 ## References
 * **LoganPhan** - https://github.com/LoganPhan/QuoAI-challange-2
